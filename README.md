@@ -20,9 +20,7 @@ Easily calculate your age in years, months, days — and find out when your next
 
 | Splash | Home | Result |
 |:------------|:------------|:------------|
-![Screenshot 2025-05-28 222905](https://github.com/user-attachments/assets/8a3218ea-664b-4a24-96c9-ce545ee9c423)
-![Screenshot 2025-05-28 222924](https://github.com/user-attachments/assets/fcd6170f-5786-42d9-b26e-24faa3cc3554)
-![Screenshot 2025-05-28 223032](https://github.com/user-attachments/assets/c2a8cd11-27f2-45fe-8f31-4d88e2236e83)
+![Screenshot 2025-05-28 222905](https://github.com/user-attachments/assets/8a3218ea-664b-4a24-96c9-ce545ee9c423)![Screenshot 2025-05-28 222924](https://github.com/user-attachments/assets/fcd6170f-5786-42d9-b26e-24faa3cc3554)![Screenshot 2025-05-28 223032](https://github.com/user-attachments/assets/c2a8cd11-27f2-45fe-8f31-4d88e2236e83)
 
 
 ---
@@ -51,7 +49,7 @@ lib/
 
 ### 🚀 Installation
 
-git clone https://github.com/your-username/flutter_age_calculator.git
+git clone https://github.com/Raunit0121/Age-Counter
 cd flutter_age_calculator
 flutter pub get
 flutter run
