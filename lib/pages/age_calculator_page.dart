@@ -106,7 +106,7 @@ class _AgeCalculatorPageState extends State<AgeCalculatorPage> {
                     physics: NeverScrollableScrollPhysics(),
                     crossAxisSpacing: 5,
                     mainAxisSpacing: 5,
-                    childAspectRatio: 3.0,
+                  
 
                     children: [
                       SummaryItem(
