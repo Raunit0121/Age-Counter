@@ -28,34 +28,34 @@ Easily calculate your age in years, months, days — and find out when your next
 ## 🛠️ Getting Started
 
 ### 📦 Prerequisites
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Any IDE (Android Studio / VS Code)
+    - [Flutter SDK](https://flutter.dev/docs/get-started/install)
+    - Any IDE (Android Studio / VS Code)
 
 
 📂 Project Structure
 
-lib/
-├── main.dart                # App entry point
-├── screens/
-│   └── age_calculator_page.dart
-├── widgets/
-│   └── summary_item.dart
-├── utils/
-│   └── age_calculation_helper.dart
-└── constants/
-    └── app_colors.dart
+    lib/
+    ├── main.dart                # App entry point
+    ├── screens/
+    │   └── age_calculator_page.dart
+    ├── widgets/
+    │   └── summary_item.dart
+    ├── utils/
+    │   └── age_calculation_helper.dart
+    └── constants/
+        └── app_colors.dart
 
 
 
 ### 🚀 Installation
 
-git clone https://github.com/Raunit0121/Age-Counter
-cd flutter_age_calculator
-flutter pub get
-flutter run
-
-
-
+    git clone https://github.com/Raunit0121/Age-Counter
+    
+    cd flutter_age_calculator
+    
+    flutter pub get
+    
+    flutter run
 
 
 
