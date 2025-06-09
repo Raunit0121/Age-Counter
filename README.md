@@ -16,6 +16,13 @@ Easily calculate your age in years, months, days — and find out when your next
 
 ---
 
+ APK will download directly 🚀
+ 
+       https://github.com/Raunit0121/Age-Counter/releases/tag/v1.0.0
+
+
+ 
+---
 ## 📸 Screenshots
 
 | Splash | Home | Result |
